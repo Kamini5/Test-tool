@@ -1,0 +1,6 @@
+{
+  "name": "TestCraft AI",
+  "description": "AI-powered documentation assistant for software testers and developers. Generate SRS, FRS, Test Plans, Test Cases, and Test Environment setup guides effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
